@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707560452698",
+    "firebase_url": "https://certificatestore-257ea.firebaseio.com",
+    "project_id": "certificatestore-257ea",
+    "storage_bucket": "certificatestore-257ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707560452698:android:fcb75055fea79a83d7de63",
+        "android_client_info": {
+          "package_name": "com.app.certificate_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707560452698-6lkoi97919m2se7v0pi8rmtejvhj6el3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsYMJOLTzjVNDVZaT8ZjlZf_7FyG0tbsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707560452698-6lkoi97919m2se7v0pi8rmtejvhj6el3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
